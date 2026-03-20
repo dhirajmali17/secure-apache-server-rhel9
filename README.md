@@ -65,3 +65,22 @@ secure-apache-server-rhel9/
 
 ### 🔹 Final Output
 ![Output](screenshots/step11-final-output.png)
+
+## 🔐 Authentication Configuration
+```apache
+<Directory "/var/www/html">
+    AuthType Basic
+    AuthName "Restricted Area"
+    AuthUserFile /etc/httpd/.htpasswd
+    Require valid-user
+</Directory>
+
+## 📄 Documentation
+
+📘 Detailed step-by-step implementation and screenshots are available in the full project report:
+
+👉 [View Full Project Documentation](documentation/secure-apache-project.pdf)
+
+🎯 Conclusion
+
+This project demonstrates securing a web server using Basic Authentication and provides hands-on experience in Apache configuration and Linux system security.
