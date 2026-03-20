@@ -75,11 +75,13 @@ secure-apache-server-rhel9/
     Require valid-user
 </Directory>
 
+
 ## 📄 Documentation
 
 📘 Detailed step-by-step implementation and screenshots are available in the full project report:
 
 👉 [View Full Project Documentation](documentation/secure-apache-project.pdf)
+
 
 🎯 Conclusion
 
