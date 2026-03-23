@@ -83,8 +83,7 @@ secure-apache-server-rhel9/
 
 📘 Detailed step-by-step implementation and screenshots are available in the full project report:
 
-👉 [View Full Project Documentation](documentation/secure-apache-project.pdf)
-
+👉 [View Full Project Documentation](https://github.com/dhirajmali17/secure-apache-server-rhel9/blob/main/documentation/secure-apache-project.pdf)
 ## 🎯 Conclusion
 
 This project demonstrates securing a web server using Basic Authentication and provides hands-on experience in Apache configuration and Linux system security.
