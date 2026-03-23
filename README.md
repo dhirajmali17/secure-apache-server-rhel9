@@ -75,3 +75,14 @@ secure-apache-server-rhel9/
     AuthUserFile /etc/httpd/.htpasswd
     Require valid-user
 </Directory>
+
+
+## 📄 Documentation
+
+📘 Detailed step-by-step implementation and screenshots are available in the full project report:
+
+👉 [View Full Project Documentation](documentation/secure-apache-project.pdf)
+
+## 🎯 Conclusion
+
+This project demonstrates securing a web server using Basic Authentication and provides hands-on experience in Apache configuration and Linux system security.
