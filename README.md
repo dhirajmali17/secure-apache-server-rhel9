@@ -75,7 +75,7 @@ secure-apache-server-rhel9/
     AuthUserFile /etc/httpd/.htpasswd
     Require valid-user
 </Directory>
-
+```
 
 
 
